@@ -83,3 +83,9 @@ Thumbs.db
 # -----------------------------
 *.tmp
 *.temp
+
+# -----------------------------
+# Assignment Documents
+# -----------------------------
+*.pdf
+Playpower Labs Assignment- Airbnb-Clone App.pdf
