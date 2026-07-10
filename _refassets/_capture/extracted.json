@@ -1,0 +1,34 @@
+{
+  "heroImgs": [
+    "/assets/images/2367476f-11c4-4a14-a7c6-267be62c1d59.jpeg",
+    "/assets/images/090d8b0b-b539-42c0-84f8-e1fb0cdf9a93.jpeg",
+    "/assets/images/9be71047-fc52-438a-9270-75cb470f6752.jpeg",
+    "/assets/images/67c61c6f-6260-4809-9510-0360e58a345d.jpeg",
+    "/assets/images/c904e1ab-a39d-4ef0-bdea-8c0bd16b9e3d.jpeg"
+  ],
+  "moreImgs": [
+    "/assets/images/similar/s1.jpeg",
+    "/assets/images/similar/s2.jpeg",
+    "/assets/images/similar/s3.jpeg",
+    "/assets/images/similar/s4.jpeg",
+    "/assets/images/similar/s5.jpeg",
+    "/assets/images/similar/s6.jpeg",
+    "/assets/images/similar/s2.jpeg",
+    "/assets/images/similar/s4.jpeg"
+  ],
+  "reviewImgs": [
+    "/assets/images/avatars/rev1.jpeg",
+    "/assets/images/avatars/rev2.jpeg",
+    "/assets/images/avatars/rev3.jpeg",
+    "/assets/images/avatars/rev4.jpeg"
+  ],
+  "cohostImgs": [
+    "/assets/images/avatars/co1.jpg",
+    "/assets/images/avatars/co2.jpg",
+    "/assets/images/avatars/co3.jpg",
+    "/assets/images/avatars/rev5.jpeg",
+    "/assets/images/avatars/rev1.jpeg",
+    "/assets/images/avatars/rev2.jpeg"
+  ],
+  "svgCount": 37
+}

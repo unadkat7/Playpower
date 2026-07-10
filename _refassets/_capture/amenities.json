@@ -1,0 +1,238 @@
+[
+  {
+    "title": "Bathroom",
+    "rows": [
+      {
+        "unavailable": false,
+        "label": "Hairdryer"
+      },
+      {
+        "unavailable": false,
+        "label": "Cleaning products"
+      },
+      {
+        "unavailable": false,
+        "label": "Shampoo"
+      },
+      {
+        "unavailable": false,
+        "label": "Hot water"
+      },
+      {
+        "unavailable": false,
+        "label": "Shower gel"
+      }
+    ]
+  },
+  {
+    "title": "Bedroom and laundry",
+    "rows": [
+      {
+        "unavailable": false,
+        "label": "Washing machine"
+      },
+      {
+        "unavailable": false,
+        "label": "Hangers"
+      },
+      {
+        "unavailable": false,
+        "label": "Bed linen"
+      },
+      {
+        "unavailable": false,
+        "label": "Room-darkening blinds"
+      },
+      {
+        "unavailable": false,
+        "label": "Iron"
+      },
+      {
+        "unavailable": false,
+        "label": "Clothes storage"
+      },
+      {
+        "unavailable": false,
+        "label": "Cot"
+      }
+    ]
+  },
+  {
+    "title": "Entertainment",
+    "rows": [
+      {
+        "unavailable": false,
+        "label": "TV"
+      }
+    ]
+  },
+  {
+    "title": "Family",
+    "rows": [
+      {
+        "unavailable": false,
+        "label": "Cot"
+      }
+    ]
+  },
+  {
+    "title": "Heating and cooling",
+    "rows": [
+      {
+        "unavailable": false,
+        "label": "Air conditioning"
+      },
+      {
+        "unavailable": false,
+        "label": "Ceiling fan"
+      }
+    ]
+  },
+  {
+    "title": "Home safety",
+    "rows": [
+      {
+        "unavailable": false,
+        "label": "Exterior security cameras on property"
+      },
+      {
+        "unavailable": true,
+        "label": "Carbon monoxide alarm"
+      },
+      {
+        "unavailable": true,
+        "label": "Smoke alarm"
+      }
+    ]
+  },
+  {
+    "title": "Internet and office",
+    "rows": [
+      {
+        "unavailable": false,
+        "label": "Wifi"
+      },
+      {
+        "unavailable": false,
+        "label": "Dedicated workspace"
+      }
+    ]
+  },
+  {
+    "title": "Kitchen and dining",
+    "rows": [
+      {
+        "unavailable": false,
+        "label": "Kitchen"
+      },
+      {
+        "unavailable": false,
+        "label": "Fridge"
+      },
+      {
+        "unavailable": false,
+        "label": "Freezer"
+      },
+      {
+        "unavailable": false,
+        "label": "Microwave"
+      },
+      {
+        "unavailable": false,
+        "label": "Cooking basics"
+      },
+      {
+        "unavailable": false,
+        "label": "Crockery and cutlery"
+      },
+      {
+        "unavailable": false,
+        "label": "Kettle"
+      },
+      {
+        "unavailable": false,
+        "label": "Coffee"
+      },
+      {
+        "unavailable": false,
+        "label": "Wine glasses"
+      },
+      {
+        "unavailable": false,
+        "label": "Toaster"
+      },
+      {
+        "unavailable": false,
+        "label": "Blender"
+      },
+      {
+        "unavailable": false,
+        "label": "Cooker"
+      }
+    ]
+  },
+  {
+    "title": "Location features",
+    "rows": [
+      {
+        "unavailable": false,
+        "label": "Private entrance"
+      }
+    ]
+  },
+  {
+    "title": "Outdoor",
+    "rows": [
+      {
+        "unavailable": false,
+        "label": "Patio or balcony"
+      },
+      {
+        "unavailable": false,
+        "label": "Outdoor dining area"
+      }
+    ]
+  },
+  {
+    "title": "Parking and facilities",
+    "rows": [
+      {
+        "unavailable": false,
+        "label": "Free parking on premises"
+      },
+      {
+        "unavailable": false,
+        "label": "Pool"
+      },
+      {
+        "unavailable": false,
+        "label": "Hot tub"
+      },
+      {
+        "unavailable": false,
+        "label": "Gym"
+      }
+    ]
+  },
+  {
+    "title": "Services",
+    "rows": [
+      {
+        "unavailable": false,
+        "label": "Pets allowed"
+      },
+      {
+        "unavailable": false,
+        "label": "Cleaning available during stay"
+      },
+      {
+        "unavailable": false,
+        "label": "Long-term stays allowed"
+      },
+      {
+        "unavailable": false,
+        "label": "Self check-in"
+      }
+    ]
+  }
+]
